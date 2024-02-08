@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package cslwl.sample;
+
+message PublishInfo {
+    string name= 1;
+    string message_type = 2;
+    string publish_msg = 3;
+
+}
+
+message work {
+
+}
+
+message date {
+    
+}

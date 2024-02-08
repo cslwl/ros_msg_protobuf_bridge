@@ -1,0 +1,14 @@
+syntax = "proto3";
+
+package cslwl.sample;
+
+
+message RosProtoTest {
+  int32 num = 1;
+  string name = 2;
+  double a = 3;
+  repeated string n = 100;
+}
+
+
+

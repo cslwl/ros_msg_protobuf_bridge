@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <name>myproject</name>
+  <version>0.0.0</version>
+  <description>proto sample package</description>
+  <maintainer email="cslweiliang@163.com">cslwl</maintainer>
+  <license>TODO: License declaration</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>roscpp</build_depend>
+  <run_depend>roscpp</run_depend>
+</package>
